@@ -24,3 +24,14 @@ class SLL2 {
 
 }
     
+
+class SLL3 {
+    constructor(value) {
+        this.head
+    }
+    display(value) {
+        newNode = new Node(`${value}`);
+
+        return newNode
+    }
+}
